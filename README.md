@@ -1,8 +1,3 @@
-
-<p align="center">
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=luke-herring&style=flat-square&color=blue" alt=""></p>
-
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### :male_technologist: &nbsp;About Me :
@@ -44,3 +39,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-herring&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+<p align="center"><img src="https://komarev.com/ghpvc/?username=luke-herring&style=flat-square&color=blue" alt=""></p>
+
