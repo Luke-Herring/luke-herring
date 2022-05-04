@@ -4,7 +4,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
+- 🌱 Exploring Cybersecurity and Information security.
 - ⚡ In my free time I play CTF's and program stuff.
 - 📫 Contact Me: &nbsp; luke0422@protonmail.com
 
